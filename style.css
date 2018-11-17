@@ -1,0 +1,41 @@
+body {
+  background: url(bone.png) no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.con {
+  /* background-color: #a1a1a1; */
+  height: 100vh;
+}
+
+
+.jumbotron{
+  background-color: forestgreen;
+  color: #fff;
+  text-align: center;
+}
+
+.cd{
+  /* border: 2px solid;
+  border-color: color: #5bc0de; */
+
+
+}
+
+.square-image{
+  height: 250px;
+}
+
+.top-buffer { margin-top:20px; }
+
+.bl{
+  color: black;
+}
+
+.footnote {
+  margin-top: 5%;
+  text-align: center;
+  font-size: 10px;
+  line-height: 1.23em;
+}
